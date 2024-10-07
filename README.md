@@ -1,4 +1,4 @@
-<H3>Name: HARSHAVRDHANr</H3>
+<H3>Name: HARSHAVRDHAN</H3>
 <H3>Register No.: 212222240114</H3>
 <H3>Experiment 2</H3>
 <H3>Date</H3>
